@@ -1,9 +1,6 @@
 .maintitle {
     text-align: center;
     font-size: 500%;
-    display: inline-block;
-    margin-left: 60px;
-    margin-right: 60px;
 }
 
 .pagetitle{
@@ -13,9 +10,9 @@
 
  .flag {
      display: inline-block;
-     width: 24%;
-     margin-left: 100px;
-     margin-right: 99px;
+     width: 20%;
+     margin-left: 12%;
+     margin-right: 11.93%;
 
  }
 
