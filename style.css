@@ -1,0 +1,101 @@
+.maintitle {
+    text-align: center;
+    font-size: 500%;
+    display: inline-block;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.pagetitle{
+    text-align: center;
+    font-size: 400%;
+}
+
+ .flag {
+     display: inline-block;
+     width: 24%;
+     margin-left: 100px;
+     margin-right: 99px;
+
+ }
+
+ .links{
+     list-style: none;
+     padding-left: 0;
+     margin: auto;
+     width: 50%;
+     text-align: center;
+     
+ }
+
+ .links>li{
+     display: inline-block;
+     border: 5px outset;
+     margin-left: 2.5px;
+     margin-right: 2.5px;
+ }
+
+ .text1{
+     font-size: x-large;
+     width: 40%;
+     margin: auto;
+     display: inline-block;
+    
+ }
+
+ .text2{
+     font-size: x-large;
+     width: 40%;
+     
+     display: inline-block;
+     text-align: center;
+     margin-left: 30%;
+ }
+
+ .boldtext1{
+     text-align: center;
+ }
+
+ .map{
+     display: inline-block;
+     margin: auto;
+     margin-top: 50px;
+     width: 40%;
+ }
+
+ .kangaroo{
+     width: 30%;
+ }
+
+ .kangaroo2{
+    width: 70%;
+    display: inline-block;
+}
+body {
+    background-color: skyblue;
+}
+
+.emu{
+    width: 30%;
+}
+
+.emu2{
+    width: 60%;
+}
+
+.platypus{
+    width: 40%;
+}
+
+.platypus2{
+    width: 70%;
+}
+
+.Vegemite{
+    width: 60%;
+    display: inline-block;
+    margin-left: 20%;
+}
+
+
+
